@@ -1,0 +1,8 @@
+.divtabela{
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    margin-left: 250px;
+    margin-top: 250px;
+    margin-bottom: 50px;
+}

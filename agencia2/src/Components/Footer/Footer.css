@@ -1,0 +1,31 @@
+#myFooter{
+    height: 180px;
+    width: 100%;
+    padding-right:100px;
+    align-items: center;
+    display: flex;
+}
+.rodape{
+    align-items: center;
+    display: flex;
+}
+.col-sm-2{
+    align-items: center;
+    padding: 5px;
+    margin-left:20px;
+}
+.divlogo{
+   float:right
+}
+
+.logofooter{
+    height: 150px;
+    width: 150px;
+    padding: 0%;
+}
+
+.iconesredes{
+    width: 30%;
+    height:30%;
+    fill:black;
+}
